@@ -1,3 +1,7 @@
+# Description
+
+At a non-technical level, this project is a tool to help with the building and maintenance of software projects at Myti. It is unclear whether it is used in practice or was more of an on-going project that had not yet been implemented.
+
 # Golang proto rules
 Golang protobuf definitions for the [Proto](https://github.com/please-build/proto-rules) plugin, for the 
 [Please](https://please.build) build system.
